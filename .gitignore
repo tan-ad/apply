@@ -2,5 +2,11 @@
 # website: https://www.langchain.com/
 # website: https://www.langchain.com/langgraph
 
+# this langgraph template is cheeks what the heck lol
+
 # LangGraph
 .langgraph_api/
+
+venv
+
+.env
